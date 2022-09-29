@@ -22,7 +22,7 @@ using std::cin;
 #include "Datain.h"
 
 /* For emergency command */
-//version control test_1 t
+//version control test_2
 #ifdef CAndCpp 
 	#include "SignCommand.h"
 #endif
