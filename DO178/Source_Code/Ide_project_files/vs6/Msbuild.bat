@@ -1,0 +1,1 @@
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Msbuild /t:Rebuild Cpp_tunnel_lighting_system.vcxproj
