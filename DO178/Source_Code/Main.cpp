@@ -10,7 +10,7 @@ v2.0 Addition of ini file handling  13/08/15 Bill Cody
 #include <fstream>
 using std::cout;
 using std::cin;
-
+//hshs
 #include "Config.h"
 #include "Lampmodel.h"
 #include "Lamptype.h"
